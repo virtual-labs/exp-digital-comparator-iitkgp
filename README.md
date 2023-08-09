@@ -7,7 +7,7 @@
 <b>Discipline | <b> Computer Science Engineering 
 :--|:--|
 <b> Lab | <b> **Digital Logic Circuit Design Virtual Lab**
-<b> Experiment|     <b> **Digital Comparator and Experiment 3**
+<b> Experiment|     <b> **Digital Comparator and Experiment 9**
 
 ### Subject Matter Expert
 
