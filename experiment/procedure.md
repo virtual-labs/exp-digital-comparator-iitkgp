@@ -4,7 +4,7 @@
 
 
 - **Step 1.** Design a one bit comparator.
-- A one bit comparator has been designed in the simulator using basic ‘AND’, ‘NOT’ and ‘NOR’ gate as below.
+- A one-bit comparator has been designed in the simulator using basic **AND**, **NOT**, and **NOR** gates as shown below.
  
 <center>
 <img style="width:50%" src="images/Pim1.png">
