@@ -1,0 +1,50 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Comparators are used in ____________",
+        "answers": {
+          "a": "Memory",
+          "b": "CPU",
+          "c": "Motherboard",
+          "d": "Harddrive"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "How many types of digital comparators are?",
+        "answers": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The purpose of a Digital Comparator is ____________",
+        "answers": {
+          "a": "To convert analog input into digital",
+          "b": "To create different outputs",
+          "c": "To add a set of different numbers",
+          "d": "To compare a set of variables or unknown numbers"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which one is a basic comparator?",
+        "answers": {
+          "a": "XOR",
+          "b": "XNOR",
+          "c": "AND",
+          "d": "NAND"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
